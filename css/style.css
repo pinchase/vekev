@@ -278,6 +278,7 @@ a:focus {
 
 .slider_section .detail-box p {
   margin: 25px 0;
+  color: white;
 }
 
 .slider_section .detail-box .btn-box {
@@ -497,6 +498,8 @@ a:focus {
 
 .about_section .detail-box p {
   margin-top: 35px;
+  color: black;
+
 }
 
 .about_section .detail-box a {
@@ -941,4 +944,37 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
-/*# sourceMappingURL=style.css.map */
+.service_section {
+  padding: 50px 0;
+  background-color: #f9f9f9;
+}
+
+.box {
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.box:hover {
+  transform: translateY(-5px);
+}
+
+.icon-box {
+  font-size: 50px;
+  color: #8019C8; /* Match theme color */
+  margin-bottom: 15px;
+}
+
+.detail-box h5 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.detail-box p {
+  font-size: 16px;
+  color: #666;
+}
