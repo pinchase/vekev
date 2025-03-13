@@ -90,9 +90,7 @@
 .testimonial_info i {
   font-size: 24px;
 }
-.logo {
-  width: 40px;
-}
+
 
 .navbar-toggler {
   font-size: 20px;
@@ -150,10 +148,6 @@
 
   .testimonial_info i {
     font-size: 20px;
-  }
-  .logo {
-    width: 40px;
-}
 
 .navbar-toggler {
     font-size: 20px;
@@ -161,9 +155,6 @@
 }
 
 @media (max-width: 420px) {
-  .logo {
-    width: 40px;
-}
 
 .navbar-toggler {
     font-size: 20px;
