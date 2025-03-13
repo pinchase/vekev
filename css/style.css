@@ -987,32 +987,3 @@ a:focus {
   margin-left: 10px;
 }
 
-/* Hamburger Menu Icon */
-.navbar-toggler {
-  border: none;
-  background: transparent;
-  cursor: pointer;
-}
-
-.navbar-toggler span {
-  display: block;
-  width: 24px;
-  height: 3px;
-  background-color: black;
-  margin: 4px 0;
-}
-
-/* Navbar Container */
-.custom_nav-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.navbar-brand {
-  margin-right: auto;
-}
-
-.navbar-toggler {
-  margin-left: auto;
-}
