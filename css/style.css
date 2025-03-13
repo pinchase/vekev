@@ -978,3 +978,9 @@ a:focus {
   font-size: 16px;
   color: #666;
 }
+
+.logo {
+  max-height: 67px; /* Adjust as needed */
+  width: auto;
+  border-radius: 15%;
+}
